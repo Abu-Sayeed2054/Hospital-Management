@@ -123,6 +123,6 @@ const loadPatientId = () => {
     });
 };
 
-
+loadPatientId();
 getparams();
 loadTime();
